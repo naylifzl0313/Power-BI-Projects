@@ -147,7 +147,9 @@ Last Refreshed = NOW()
 - Displays the dashboard refresh timestamp.
 - Provides confidence that users are viewing the latest available data.
 
-  # 📊 Executive Sales Dashboard
+Project #2
+---
+# Executive Sales Dashboard
 
 ## Project Overview
 
