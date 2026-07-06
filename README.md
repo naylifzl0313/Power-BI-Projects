@@ -196,17 +196,21 @@ The project demonstrates an end-to-end Business Intelligence workflow, from data
 ### Sales Performance
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7"
-       style="width:100%; height:auto; object-fit:contain;"
-       alt="Sales Performance">
+  <a href="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7">
+    <img src="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7"
+         style="width:100%; height:auto; object-fit:contain;"
+         alt="Sales Performance">
+  </a>
 </p>
 
 ### Profitability Insights
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75e44daa-cd32-487c-ba63-1af6076478d5"
-       style="width:100%; height:auto; object-fit:contain;"
-       alt="Profitability Insights">
+  <a href="https://github.com/user-attachments/assets/75e44daa-cd32-487c-ba63-1af6076478d5">
+    <img src="https://github.com/user-attachments/assets/75e44daa-cd32-487c-ba63-1af6076478d5"
+         style="width:100%; height:auto; object-fit:contain;"
+         alt="Profitability Insights">
+  </a>
 </p>
 ---
 
