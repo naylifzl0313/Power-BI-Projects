@@ -19,27 +19,23 @@ The dashboard automated manual tracking, monitored overdue and pending POs, and 
 This project was developed during my internship at **SLB** as part of the Planning and Supply Chain function. It focused on improving procurement visibility by replacing manual tracking with a centralized dashboard.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108">
-    <img src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108" width="550" alt="Dashboard Overview">
-  </a>
+  <img src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108"
+       style="width:100%; height:auto; object-fit:contain;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1">
-    <img src="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1" width="550" alt="Dashboard Documentation">
-  </a>
+  <img src="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1"
+       style="width:100%; height:auto; object-fit:contain;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54">
-    <img src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54" width="550" alt="PO Tracker">
-  </a>
+  <img src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54"
+       style="width:100%; height:auto; object-fit:contain;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4">
-    <img src="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4" width="550" alt="Dashboard Analysis">
-  </a>
+  <img src="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4"
+       style="width:100%; height:auto; object-fit:contain;">
 </p>
 
 ## Methodology
@@ -192,17 +188,26 @@ The project demonstrates an end-to-end Business Intelligence workflow, from data
 <p align="center">
   <a href="https://github.com/user-attachments/assets/b318ef3a-aec3-4ffe-96ff-087d1989e5d4">
     <img src="https://github.com/user-attachments/assets/b318ef3a-aec3-4ffe-96ff-087d1989e5d4"
-         width="700"
+         style="width:100%; height:auto; object-fit:contain;"
          alt="Executive Sales Dashboard">
   </a>
 </p>
 
 ### Sales Performance
-<img width="1988" height="1132" alt="image" src="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7"
+       style="width:100%; height:auto; object-fit:contain;"
+       alt="Sales Performance">
+</p>
 
 ### Profitability Insights
-<img width="2020" height="1140" alt="image" src="https://github.com/user-attachments/assets/75e44daa-cd32-487c-ba63-1af6076478d5" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75e44daa-cd32-487c-ba63-1af6076478d5"
+       style="width:100%; height:auto; object-fit:contain;"
+       alt="Profitability Insights">
+</p>
 ---
 
 ## Methodology
