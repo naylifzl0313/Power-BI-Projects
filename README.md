@@ -1,14 +1,22 @@
 # Power-BI-Projects
-Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business Intelligence and analytics using Power BI.
+
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills in data visualization, business intelligence, analytics, data modeling, DAX, and interactive reporting using Power BI.
+
 ---
-Project #1
----
-EAG WIT PO Tracker Report
----
-Developed the EAG WIT PO Tracker Report in Power BI to provide end-to-end visibility of purchase order status across the East Asia GeoUnit (Malaysia, Thailand, Philippines, Vietnam, and Myanmar). The dashboard automated manual tracking, monitored overdue and pending POs, and enabled stakeholders to identify bottlenecks, improving procurement monitoring and reporting efficiency.
----
-Overview
----
+
+# Project #1
+
+## EAG WIT PO Tracker Report
+
+### Project Overview
+
+Developed the **EAG WIT PO Tracker Report** in Power BI to provide end-to-end visibility of Purchase Order (PO) status across the East Asia GeoUnit, covering Malaysia, Thailand, Philippines, Vietnam, and Myanmar.
+
+The dashboard automated manual tracking, monitored overdue and pending POs, and enabled stakeholders to identify bottlenecks, improving procurement monitoring and reporting efficiency.
+
+### Overview
+
+This project was developed during my internship at **SLB** as part of the Planning and Supply Chain function. It focused on improving procurement visibility by replacing manual tracking with a centralized dashboard.
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108">
