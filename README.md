@@ -20,7 +20,7 @@ This project was developed during my internship at **SLB** as part of the Planni
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108">
-    <img src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108" width="700" alt="Dashboard Overview">
+    <img src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108" width="550" alt="Dashboard Overview">
   </a>
 </p>
 
@@ -32,13 +32,13 @@ This project was developed during my internship at **SLB** as part of the Planni
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54">
-    <img src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54" width="700" alt="PO Tracker">
+    <img src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54" width="550" alt="PO Tracker">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4">
-    <img src="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4" width="700" alt="Dashboard Analysis">
+    <img src="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4" width="550" alt="Dashboard Analysis">
   </a>
 </p>
 
@@ -189,7 +189,13 @@ The project demonstrates an end-to-end Business Intelligence workflow, from data
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="1886" height="1072" alt="image" src="https://github.com/user-attachments/assets/b318ef3a-aec3-4ffe-96ff-087d1989e5d4" />
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/b318ef3a-aec3-4ffe-96ff-087d1989e5d4">
+    <img src="https://github.com/user-attachments/assets/b318ef3a-aec3-4ffe-96ff-087d1989e5d4"
+         width="700"
+         alt="Executive Sales Dashboard">
+  </a>
+</p>
 
 ### Sales Performance
 <img width="1988" height="1132" alt="image" src="https://github.com/user-attachments/assets/57e5114b-e730-4c6c-b801-35ecf52f29e7" />
