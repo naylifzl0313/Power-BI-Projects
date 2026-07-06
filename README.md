@@ -251,7 +251,9 @@ Created custom DAX measures to calculate business KPIs, including:
 - Total Orders
 - Quantity Sold
 - Sales by Region
-- Product Profitability### Dashboard Development
+- Product Profitability
+
+### Dashboard Development
 
 Built an interactive dashboard consisting of:
 
