@@ -10,6 +10,39 @@ Developed the EAG WIT PO Tracker Report in Power BI to provide end-to-end visibi
 Overview
 ---
 
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108">
+    <img src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108" width="700" alt="Dashboard Overview">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1">
+    <img src="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1" width="550" alt="Dashboard Documentation">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54">
+    <img src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54" width="700" alt="PO Tracker">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4">
+    <img src="https://github.com/user-attachments/assets/ecd4049b-94f8-4f5a-b9c9-eaddaabe75c4" width="700" alt="Dashboard Analysis">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
 <img width="1234" height="708" alt="image" src="https://github.com/user-attachments/assets/3b1e30f3-27c8-4560-b825-4f4f864e6108" />
 <img width="972" height="1304" alt="image" src="https://github.com/user-attachments/assets/ef7fb1a4-8c61-4a87-b74e-955fa110b7a1" />
 <img width="952" height="540" alt="image" src="https://github.com/user-attachments/assets/6d76bcd8-5985-4613-80ca-55681cc87f54" />
