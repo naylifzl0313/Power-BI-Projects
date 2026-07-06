@@ -74,6 +74,21 @@ This project was developed during my internship at **SLB** as part of the Planni
 
   ## Key DAX Measures
 
+### Custom Data Transformation
+
+To resolve inconsistent plant identifiers, I created a calculated column using DAX to standardize alphanumeric and numeric plant codes before establishing relationships in the data model.
+
+```DAX
+PlantCodeNumeric =
+SWITCH(
+    TRUE(),
+    PurchaseOrders[Plant Code] = "Plant A", 1001,
+    PurchaseOrders[Plant Code] = "Plant B", 1002,
+    PurchaseOrders[Plant Code] = "Plant C", 1003,
+    VALUE(PurchaseOrders[Plant Code])
+)
+
+```
 ### Open PO Value
 Calculates the total value of all active Purchase Orders with statuses:
 - Approved
